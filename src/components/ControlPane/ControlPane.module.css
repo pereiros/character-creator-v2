@@ -10,12 +10,16 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+  width: 90%;
 }
 
 .title {
   margin: 0;
   /* Optical centering */
   margin-bottom: -4px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 .metadata {

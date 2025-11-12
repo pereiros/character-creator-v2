@@ -8,7 +8,7 @@ function App() {
     <>
       <div class="backgroundGrey"/>
       <CharacterEditor />
-      <Footer />
+      <Footer/>
     </>
   );
 }

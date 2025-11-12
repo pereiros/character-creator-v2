@@ -32,3 +32,13 @@ body {
   padding: 0;
   border: 0;
 }
+
+Footer {
+  display: none;
+}
+
+@media screen and (min-width: 520px) {
+  Footer {
+    display: block;
+  }
+}
